@@ -198,6 +198,4 @@ Indicators 14 and 15 (Poverty and Gini) are rendered as scatter dots rather than
 
 ---
 
-**GitHub:** [https://github.com/declerke/East-Africa-Economic-Lens](https://github.com/declerke/East-Africa-Economic-Lens)
-
 **Country Colors:** Kenya `#00d26a` · Uganda `#f5a623` · Tanzania `#4299e1` · Ethiopia `#9f7aea` · Rwanda `#ed64a6`
