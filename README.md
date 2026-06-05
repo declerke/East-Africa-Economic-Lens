@@ -64,6 +64,8 @@ East Africa is one of the fastest-growing economic regions on earth, yet per-cou
 
 ## 🌐 Live Dashboard
 
+**Live:** [https://east-africa-economic-lens.streamlit.app](https://east-africa-economic-lens.streamlit.app)
+
 **Run locally:**
 
 ```bash
